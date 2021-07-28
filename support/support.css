@@ -101,7 +101,9 @@
 .button-grid{
   cursor:pointer;
   padding-top: 3vh;
-  left: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-bottom: 5vh;
 }
 
@@ -120,7 +122,9 @@
 .button-grid-2{
   cursor:pointer;
   padding-top: 2vh;
-  margin: 0 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-bottom: 5vh;
 }
 
